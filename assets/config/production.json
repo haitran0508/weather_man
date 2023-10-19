@@ -1,0 +1,9 @@
+{
+    "ENV": "production",
+    "HOST_NAME": "api.openweathermap.org",
+    "API_KEY": "3ed0ef21dd370431bc47b7f67e06aca3",
+    "WEATHER_PATH": "/data/2.5/weather",
+    "WEATHER_CONDITION_SYMBOL_PATH": "/img/wn",
+    "GEOCODING_NAME_PATH": "/geo/1.0/direct",
+    "GEOCODING_ZIP_PATH": "/geo/1.0/zip"
+}
